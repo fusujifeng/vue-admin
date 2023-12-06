@@ -1,8 +1,9 @@
 <script setup>
 defineProps({
-  msg: {
+  msg:  {
     type: String,
-    required: true
+    required: true,
+    cc:"cccc"
   }
 })
 </script>
